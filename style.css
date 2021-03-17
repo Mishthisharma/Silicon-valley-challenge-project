@@ -1,0 +1,36 @@
+body 
+{
+    background-image:url("Images/download.jpg") 
+
+}
+.game
+{
+    width : 1000 ;
+    height:900 ;
+    position : relative ;
+    left : 5px ; bottom:-500px
+}
+.faq
+{
+   width: 1000;
+   height: 900;
+   position : relative ;
+   left:25px ;
+  bottom:-500px
+}
+.map
+{
+    width: 1000;
+    height: 900;
+    position : relative ;
+    left:55px ;
+   bottom:-500px
+}
+.howtohelp
+{
+    width: 870;
+    height: 900;
+    position : relative ;
+    left:75px ;
+   bottom:-500px
+}
